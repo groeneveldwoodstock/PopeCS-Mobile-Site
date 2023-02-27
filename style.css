@@ -41,7 +41,9 @@ h2 {
     color: #4d4d4d;
     font-size: 14px;
 }
-
+h3 {
+    font-size: 16px;
+}
 a {
     color: #0975a2;
     text-decoration: none;
@@ -94,7 +96,7 @@ iframe {
 }
 
 .menu a {
-    font-size: 12px;
+    font-size: 20px;
     font-weight: normal;
     text-align: center;
     display: block;
@@ -123,7 +125,7 @@ iframe {
 
 .content {
     border-radius: 25px;
-    font-size: 12px;
+    font-size: 14px;
     color: #f1ebeb;
     line-height: 2em;
     margin: 5px;
@@ -197,6 +199,8 @@ iframe {
 }
 
 .head {
+    font-size: 20px;
+    text-align: center;
     padding: 5px;
     color: #FFFFFF;
     background: #2d2d2d;
